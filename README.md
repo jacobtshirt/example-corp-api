@@ -6,3 +6,10 @@
 
 ##### Documentation 
 * [Postman API Docs](https://www.getpostman.com/collections/828c9d4f74bd2df24dee)
+
+###### Assumptions
+* All requests are valid
+
+###### Questions for Product Owner
+* Does the API need to be secured?
+* Does this API need to meet a performance metric?

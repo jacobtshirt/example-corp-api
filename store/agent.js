@@ -14,7 +14,7 @@ class AgentStore {
     }
 
     get agents() {
-        return db.get('agents');
+        return this.db.get('agents');
     }
 
     getAllAgents() {

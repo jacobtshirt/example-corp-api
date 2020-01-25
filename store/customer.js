@@ -14,7 +14,7 @@ class CustomerStore {
     }
 
     get customers() {
-        return db.get('customers');
+        return this.db.get('customers');
     }
 
     getAllCustomers() {
