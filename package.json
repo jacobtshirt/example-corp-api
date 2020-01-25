@@ -1,0 +1,16 @@
+{
+  "name": "example-corp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Jacob Tschirhart",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.11.0",
+    "lowdb": "^1.0.0"
+  }
+}
